@@ -1,11 +1,29 @@
 ---
-layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
-author: null
-show_tile: false
+layout: landing
+title: Raveena Deshmukh
+subtitle: Data Operations Associate & System Administrator
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+## About Me
+
+Data Operations & IT Support professional with 3+ years of experience in e-governance systems, digital transformation, and Windows administration.
+
+✔ Managed 4,000+ digital records  
+✔ Reduced manual processing time by 70%  
+✔ Experienced in 30+ Generative AI tools  
+✔ MIS Reporting & Workflow Automation  
+
+---
+
+## Core Skills
+
+- Generative AI (30+ Tools)
+- Prompt Engineering
+- MIS Reporting
+- MS Excel (Advanced)
+- MS Access & Basic SQL
+- Windows Administration
+- L1/L2 IT Support
+- Active Directory (Basic)
+- Process Optimization
+- Documentation Control
